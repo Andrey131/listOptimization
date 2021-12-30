@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/listOptimization/static/js/main.db92fae7.js",
+    "static/js/787.e5a96164.chunk.js": "/listOptimization/static/js/787.e5a96164.chunk.js",
+    "static/media/voda.png": "/listOptimization/static/media/voda.31aff54537521a25bd30.png",
+    "static/media/hat.png": "/listOptimization/static/media/hat.408111229730a99a609c.png",
+    "static/media/amogus.png": "/listOptimization/static/media/amogus.b07426cc41d6e38f270f.png",
+    "index.html": "/listOptimization/index.html",
+    "main.db92fae7.js.map": "/listOptimization/static/js/main.db92fae7.js.map",
+    "787.e5a96164.chunk.js.map": "/listOptimization/static/js/787.e5a96164.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.db92fae7.js"
+  ]
+}
